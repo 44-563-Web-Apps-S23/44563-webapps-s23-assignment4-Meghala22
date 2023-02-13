@@ -1,0 +1,25 @@
+.speech {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 26;
+}
+
+.direction {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: aquamarine;
+    font-size: 28;
+}
+
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.LUKE {
+    color: aqua;
+}
+
+.REVENUE {
+    color: black;
+}
