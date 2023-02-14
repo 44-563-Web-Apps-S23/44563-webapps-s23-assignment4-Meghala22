@@ -10,13 +10,12 @@
     background-color: aquamarine;
     font-size: 28;
 }
-
-/*
-.name {
-    font-family: Arial, Helvet\ica, sans-serif;
-    font-size: 30;
+.direction:hover {
+    background-color: antiquewhite;
+    color: black;
 }
-*/
+
+
 
 .LUKE {
     color: aqua;
