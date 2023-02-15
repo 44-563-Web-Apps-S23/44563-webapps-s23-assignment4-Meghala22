@@ -67,6 +67,36 @@ tr:nth-child(even) {
 .REVEN:hover {
     background: rgb(180, 230, 176);
     color: rgb(219, 52, 133);
-    text-shadow: 5px 5px #443535;
+    text-shadow: 5px 5px #000000;
     border: rgb(241, 51, 152);
+}
+ul.navbar-horizontal {
+    display:block;
+    padding: 100%;
+    color:rgb(85, 0, 255)
+}
+
+ul.navbar-horizontal {
+    
+    list-style-type:none;
+    margin: 9px;
+    padding: 9px;}
+
+ul.navbar-horizontal li {
+    float:left;
+    background-color:bisque;
+}
+
+ul.navbar-horizontal a {
+    display:block;
+    padding: 8px;
+}
+
+
+ul.navbar-horizontal a:hover {
+    color:coral;
+}
+
+.image {
+    width: 30%;
 }
