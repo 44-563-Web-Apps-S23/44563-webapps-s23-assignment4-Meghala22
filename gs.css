@@ -57,3 +57,16 @@ td {
 tr:nth-child(even) {
     background-color: rgb(220, 239, 245);
 }
+ .LUKE:hover {
+    background: rgb(228, 220, 245);
+    color: rgb(100, 100, 211);
+    text-shadow: 5px 5px #baa9a9;
+    border: rgb(237, 100, 100);
+}
+
+.REVEN:hover {
+    background: rgb(180, 230, 176);
+    color: rgb(219, 52, 133);
+    text-shadow: 5px 5px #443535;
+    border: rgb(241, 51, 152);
+}
