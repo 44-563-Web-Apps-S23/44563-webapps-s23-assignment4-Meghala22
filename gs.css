@@ -24,3 +24,33 @@
 .REVENUE {
     color: rgb(255, 137, 47);
 }
+
+table,
+th,
+td {
+    border: 2px solid;
+    text-align: center;
+    border-radius: 1px;
+    width: 10%;
+
+}
+
+table {
+    padding: 5px;
+    margin: 20px;
+    width: 60%;
+}
+
+th {
+    color: rgb(112, 136, 216);
+    font-weight: bold;
+    height: 70px;
+
+}
+
+td {
+    color: rgb(204, 60, 50);
+    border: 1px solid;
+    height: 30px;
+
+}
