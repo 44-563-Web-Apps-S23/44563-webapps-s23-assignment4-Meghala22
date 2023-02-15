@@ -55,5 +55,5 @@ td {
 
 }
 tr:nth-child(even) {
-    background-color: beige;
+    background-color: rgb(220, 239, 245);
 }
